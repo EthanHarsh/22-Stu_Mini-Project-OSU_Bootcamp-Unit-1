@@ -99,14 +99,14 @@ input {
     display: flex;
     flex-flow: row;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-evenly;
 }
 
 .flexbox-wrap-col {
     display: flex;
     flex-flow: column;
     align-items: flex-start;
-    justify-content: space-around;
+    justify-content: space-evenly;
 }
 
 .main-content {
