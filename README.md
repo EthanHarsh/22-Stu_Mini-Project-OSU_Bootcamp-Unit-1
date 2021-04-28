@@ -7,19 +7,19 @@ This project was created for The Ohio State University's Coding Bootcamp in 2021
 The client needed a coming soon page made for their portfolio.
 The client wanted:
 - A single page
-- A Header & Footer
+- A header & footer
 - An image with a caption
 - A contact form
-- Polished and Accessible UI.
+- Polished and accessible UI.
 ## Skills Learned
 - HTML/CSS
 - Semantic HTML
 - Advanced CSS
 - HTML Forms
 - UI Basics
-##Resources
- - Design [Material.io](https://material.io/design/introduction)
- - General Reference [MDN](https://developer.mozilla.org/en-US/)
+## Resources
+ - Design -> [Material.io](https://material.io/design/introduction)
+ - General Reference -> [MDN](https://developer.mozilla.org/en-US/)
 ## Project Deployment
 [GitHub Pages](https://ethanharsh.github.io/22-Stu_Mini-Project-OSU_Bootcamp-Unit-1/)
 ---
