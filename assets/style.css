@@ -159,6 +159,7 @@ input {
     border-radius: 4px;
     padding: 0.5rem;
     width: 100%;
+    margin-top: 0.5rem;
 }
 
 .in-card-img {
@@ -194,10 +195,6 @@ input {
 
 .contact-me {
     overflow: auto;
-}
-
-.m-top {
-    margin-top: 0.5rem;
 }
 
 #on-background {
