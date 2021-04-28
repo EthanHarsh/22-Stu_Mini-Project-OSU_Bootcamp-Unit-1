@@ -114,11 +114,6 @@ input {
     margin-top: 0.5rem;
 }
 
-caption {
-    margin-bottom: 0.5rem;
-    text-align: center;
-}
-
 .flexbox-wrap {
     display: flex;
     flex-flow: row wrap;
@@ -199,6 +194,10 @@ caption {
 
 .contact-me {
     overflow: auto;
+}
+
+.m-top {
+    margin-top: 0.5rem;
 }
 
 #on-background {
