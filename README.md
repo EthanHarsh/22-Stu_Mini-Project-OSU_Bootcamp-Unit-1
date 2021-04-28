@@ -5,6 +5,7 @@
 This project was created for The Ohio State University's Coding Bootcamp in 2021.
 
 ![Application Screenshot](./assets/images/screenshot.png)
+![Application Screenshot](./assets/images/screenshot1.png)
 ## Description
 The client needed a coming soon page made for their portfolio.
 The client wanted:
