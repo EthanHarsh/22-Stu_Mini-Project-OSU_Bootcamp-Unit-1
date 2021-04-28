@@ -10,13 +10,13 @@ The client wanted:
 - A header & footer
 - An image with a caption
 - A contact form
-- Polished and accessible UI.
+- Polished and accessible UI
 ## Skills Learned
-- HTML/CSS
-- Semantic HTML
-- Advanced CSS
-- HTML Forms
-- UI Basics
+- [HTML/CSS](https://www.w3.org/standards/webdesign/htmlcss)
+- [Semantic HTML](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML)
+- [Advanced CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Advanced_styling_effects)
+- [HTML Forms](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)
+- [UI Basics](https://uxdesign.cc/how-to-become-a-ui-ux-designer-self-taught-8a511170fd7c)
 ## Resources
  - Design -> [Material.io](https://material.io/design/introduction)
  - General Reference -> [MDN](https://developer.mozilla.org/en-US/)
