@@ -3,6 +3,7 @@
 ![HTML Badge](./assets/images/HTML-Semantic-green.svg) ![HTML Badge](./assets/images/CSS-Advanced-green.svg) ![HTML Badge](./assets/images/OSU-Bootcamp-red.svg)
 
 This project was created for The Ohio State University's Coding Bootcamp in 2021.
+
 ![Application Screenshot](./assets/images/screenshot.png)
 ## Description
 The client needed a coming soon page made for their portfolio.
